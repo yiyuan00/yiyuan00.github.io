@@ -1,7 +1,7 @@
 # Basic Information 
 title: Your Name
 position: Yiyuan Ge
-affiliation: SCUT
+affiliation: South China University of Technology
 email: 1209027338 (at) qq.com
 
 # Search Engine Optimization (SEO)
@@ -12,9 +12,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=qKxpHGcAAAAJ&hl=zh-CN/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+github_link: https://github.com/yiyuan00
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
