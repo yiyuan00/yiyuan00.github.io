@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+👋 About Me
+I am Yiyuan Ge, a PhD student at SCUT@MPI Lab. I am fortunate to be supervised by Prof. Changxing Ding. I was honored to be supervised and collaborated with Prof. Mingxin Yu during my graduate studies. Currently, I am closely working with Dr. Ziyang Wang (Oxford@Alan Turing Institute).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** person re-id, video-audio intergration
+- **Embodied AI:** hand-object interaction, pretrain policy
 
 ## News
 
