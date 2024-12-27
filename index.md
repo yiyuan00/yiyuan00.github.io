@@ -11,7 +11,7 @@ I am Yiyuan Ge, a PhD student at SCUT@MPI Lab. I am fortunate to be supervised b
 - **Computer Vision:** person re-id, video-audio intergration
 - **Embodied AI:** hand-object interaction, pretrain policy
 
-## News
+## News🔥
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
