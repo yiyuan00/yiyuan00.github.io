@@ -1,20 +1,19 @@
 # Basic Information 
-title: Your Name
+title: Yiyuan Ge
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: SCUT
+email: 1209027338 (at) qq.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: Computer Vision, Embodied AI, Person ReID
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=qKxpHGcAAAAJ&sortby=pubdate&view_op=list_works&gmla=AFix5MaJoxRl0DrPJU9vPe1erWf1LL2KnAU8XzvJk89z65pF_xTDpBu9OEvQ-e6q70Cz29BRMCLClFyybOKhurRYGsx9D0QWM5xzPHfvmg4
+github_link: https://github.com/yiyuan00/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
