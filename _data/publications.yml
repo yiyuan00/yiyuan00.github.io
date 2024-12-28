@@ -13,7 +13,7 @@ main:
   - title: "Spectral Enhancement and Pseudo-Anchor Guidance for Infrared-Visible Person Re-Identification"
     authors: Yiyuan Ge*, Zhihao Chen, Ziyang Wang, Mingya Zhang
     conference_short: ICASSP
-    conference: <strong>International Conference on Acoustics, Speech and Signal Processing</strong>, 2025.
+    conference: <strong>International Conference on Acoustics, Speech and Signal Processing</strong> (ICASSP), 2025.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231224008750
     code: https://github.com/1024AILab/ReID-SEPG
     page: https://github.com/1024AILab/ReID-SEPG
