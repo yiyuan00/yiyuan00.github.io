@@ -5,8 +5,7 @@ main:
     conference_short: Neuro
     conference: <strong>Neurocomputing</strong>, 2025.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231224008750
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    code: https://github.com/1024AILab/MambaTSR
+    page: https://github.com/1024AILab/MambaTSR
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
     image: ./assets/img/mamba.png
