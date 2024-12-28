@@ -1,11 +1,12 @@
 main:
 
   - title: MambaTSR: You Only Need 90k Parameters for Traffic Sign Recognition
-    authors: <strong>Yiyuan Ge</strong>, Zhihao Chen, Mingxin Yu*
-    conference_short: Neurocomputing
+    authors: <strong>Yiyuan Ge</strong>, Zhihao Chen, Mingxin Yu
+    conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/1024AILab/MambaTSR
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/mamba.png
     notes: Early Accept
