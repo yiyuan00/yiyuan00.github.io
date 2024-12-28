@@ -4,7 +4,7 @@ main:
     authors: <strong>Yiyuan Ge</strong>, Zhihao Chen, Mingxin Yu
     conference_short: Neuro
     conference: <strong>Neurocomputing</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231224008750
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
