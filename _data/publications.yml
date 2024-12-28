@@ -4,9 +4,9 @@ main:
     authors: <strong>Yiyuan Ge</strong>, Zhihao Chen, Mingxin Yu*
     conference_short: Neurocomputing
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&q=related:XZvc75jiLMgJ:scholar.google.com/
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/1024AILab/MambaTSR
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:XZvc75jiLMgJ:scholar.google.com/&output=citation&scisdr=ClFkPic7EM7RnsuEGrU:AFWwaeYAAAAAZ2-CArVsc0ZRldnrOIIJFyCWQc4&scisig=AFWwaeYAAAAAZ2-CAnCJfBKj8Q4ahjXaUnTVSWM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/mamba.png
     notes: Early Accept
 
