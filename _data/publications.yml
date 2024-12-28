@@ -1,7 +1,7 @@
 main:
 
   - title: "MambaTSR: You Only Need 90k Parameters for Traffic Sign Recognition"
-    authors: <strong>Yiyuan Ge</strong>, Zhihao Chen, Mingxin Yu
+    authors: Yiyuan Ge*, Zhihao Chen, Mingxin Yu
     conference_short: Neuro
     conference: <strong>Neurocomputing</strong>, 2025.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231224008750
