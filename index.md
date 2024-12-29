@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me👋
 
-I am Yiyuan Ge, a incoming PhD student at SCUT@MPI Lab. I am fortunate to be supervised by Prof. Changxing Ding. I was honored to be supervised and collaborated with Prof. Mingxin Yu during my graduate studies. Currently, I am closely working with Dr. Ziyang Wang (Oxford@Alan Turing Institute) and Dr. Zhihao Chen (BUPT@PRIS)
+I am Yiyuan Ge, an incoming PhD student at SCUT@MPI Lab. I am fortunate to be supervised by Prof. Changxing Ding. I was honored to be supervised and collaborated with Prof. Mingxin Yu during my graduate studies. Currently, I am closely working with Dr. Ziyang Wang (Oxford@Alan Turing Institute) and Dr. Zhihao Chen (BUPT@PRIS)
 
 ## Research Interests
 
