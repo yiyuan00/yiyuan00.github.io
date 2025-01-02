@@ -8,8 +8,8 @@ I am Yiyuan Ge, an incoming PhD student at SCUT@MPI Lab. I am fortunate to be su
 
 ## Research Interests
 
-- **Computer Vision:** person re-id, video-audio intergration
-- **Embodied AI:** hand-object interaction, pretrain policy
+- **Computer Vision:** Person Re-ID, Video-Audio Intergration
+- **Embodied AI:** Hand-Object Interaction, Pre-train Policy
 
 ## News🔥
 
