@@ -15,4 +15,5 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Signal Processing Letters (SPL)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>The Visual Computer (TCV)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>The Journal of Supercomputing (TJS)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Machine Learning and Cybernetics (IJMLC)</autocolor></a></li>
 </ul>
