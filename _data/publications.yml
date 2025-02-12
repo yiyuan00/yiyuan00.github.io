@@ -1,6 +1,6 @@
 main:
   - title: "YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation from a Top-Down View"
-    authors: Mingxin Yu, Hao Dong, Rui You, Qihao Zhang, **Yiyuan Ge**
+    authors: Mingxin Yu, Hao Dong, Rui You, Qihao Zhang, Yiyuan Ge*
     conference_short: TIM
     conference: <strong>IEEE Transactions on Instrumentation & Measurement</strong>, 2025.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.13217
