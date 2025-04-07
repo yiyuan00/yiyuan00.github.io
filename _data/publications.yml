@@ -2,7 +2,7 @@ main:
   - title: "No Escape: Towards Suggestive Clues Guidance for Cross-modality Person Re-identification"
     authors: Mingxin Yu*(advisor), Yiyuan Ge*(equal), Zhihao Chen,Rui You, Zeshui Xu
     conference_short: INFFUS
-    conference: <strong>Information Fusion</strong>, 2025.
+    conference: <strong>Information Fusion (IF:14.8)</strong>, 2025.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.13217
     code: https://github.com/bujihao/YOLO-MousePose
     page: https://github.com/jk-love-ge/SA-ReID
