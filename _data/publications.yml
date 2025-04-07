@@ -3,9 +3,9 @@ main:
     authors: Mingxin Yu*(advisor), Yiyuan Ge*(equal), Zhihao Chen,Rui You, Zeshui Xu
     conference_short: INFFUS
     conference: <strong>Information Fusion (IF:14.8)</strong>, 2025.
-    pdf: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.13217
+    pdf: https://scholar.google.com/citations?hl=zh-CN&user=qKxpHGcAAAAJ&view_op=list_works&sortby=pubdate
     code: https://github.com/bujihao/YOLO-MousePose
-    page: https://github.com/jk-love-ge/SA-ReID
+    page: https://scholar.google.com/citations?hl=zh-CN&user=qKxpHGcAAAAJ&view_op=list_works&sortby=pubdate
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h73YFIXsziEJ:scholar.google.com/&output=citation&scisdr=ClFkPic7EM7RnsuMe-M:AFWwaeYAAAAAZ2-KY-NaSA6DhkNdaYHhTotrxHE&scisig=AFWwaeYAAAAAZ2-KYyn6CF1XGA93rY4wmb8VW_k&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/SCR.png
     
@@ -13,9 +13,9 @@ main:
     authors: Mingxin Yu, Hao Dong, Rui You, Qihao Zhang, Yiyuan Ge*
     conference_short: TIM
     conference: <strong>IEEE Transactions on Instrumentation & Measurement</strong>, 2025.
-    pdf: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.13217
+    pdf: https://scholar.google.com/citations?hl=zh-CN&user=qKxpHGcAAAAJ&view_op=list_works&sortby=pubdate
     code: https://github.com/bujihao/YOLO-MousePose
-    page: https://github.com/jk-love-ge/SA-ReID
+    page: https://scholar.google.com/citations?hl=zh-CN&user=qKxpHGcAAAAJ&view_op=list_works&sortby=pubdate
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h73YFIXsziEJ:scholar.google.com/&output=citation&scisdr=ClFkPic7EM7RnsuMe-M:AFWwaeYAAAAAZ2-KY-NaSA6DhkNdaYHhTotrxHE&scisig=AFWwaeYAAAAAZ2-KYyn6CF1XGA93rY4wmb8VW_k&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/yolo.png
     
