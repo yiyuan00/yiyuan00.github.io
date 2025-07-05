@@ -12,13 +12,11 @@ I am Yiyuan Ge, a PhD from SCUT@MPI Lab. I was fortunate to be supervised by Pro
 - **Embodied AI:** Hand-Object Interaction, Pre-train Policy
 
 ## News🔥
-- **[Apr. 2025]** Our paper about cross-modality reid was accepted by Information Fusion✨.
-- **[Jan. 2025]** One paper have submitted to ICME 2025.
-- **[Nov. 2024]** One paper have submitted to CVPR 2025.
-- **[Jan. 2025]** One paper is being "Major Revision" in Information Fusion.🔥
+- **[Apr. 2025]** Our paper about cross-modality reid was accepted by Information Fusion 2025✨.
+- **[Feb. 2025]** Our paper about pose estimation was accepted by IEEE TIM 2025!✨
 - **[Nov. 2024]** Our paper about cross-modality reid was accepted by ICASSP 2025!✨ 
-- **[Nov. 2024]** Our paper about cloth-changing reid was accepted by The Visual Computer!✨ 
-- **[Jun. 2024]** Our paper about Mamba-classfication was accepted by Neurocomputing!✨ 
+- **[Nov. 2024]** Our paper about cloth-changing reid was accepted by The Visual Computer 2024!✨ 
+- **[Jun. 2024]** Our paper about Mamba-classfication was accepted by Neurocomputing 2024!✨ 
 
 {% include_relative _includes/publications.md %}
 
